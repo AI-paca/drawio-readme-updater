@@ -17,3 +17,5 @@ Why does it exist?
 - It turned out to be much more convenient than drawing everything on paper (more convenient, not faster, not slower).
 ---
 *Have fun*
+
+![example.png](diagrams/example.png)
